@@ -1,0 +1,26 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "gallifreymod:eye_of_harmony"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ],
+    "facing=north": [
+      {}
+    ],
+    "facing=east": [
+      {}
+    ],
+    "facing=west": [
+      {}
+    ],
+    "facing=south": [
+      {}
+    ]
+  }
+}

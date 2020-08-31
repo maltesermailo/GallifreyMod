@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gallifreymod",
+  "name": "Gallifreyan Technology Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nightishaman"],
+  "credits": "Nightishaman",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
